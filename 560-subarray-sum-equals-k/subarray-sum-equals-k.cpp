@@ -15,7 +15,7 @@ public:
             mp[sum]++;
         }
 
-        // mp taken as the name of a map ( later )
+        // mp taken as the name of a map ( later ) =+= approach 2 
 
         return ans;
     }
