@@ -8,9 +8,9 @@
 
 <br/>
 
-![LeetCode](https://img.shields.io/badge/LeetCode-YOUR_LEETCODE_USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode](https://img.shields.io/badge/LeetCode-samihanacharya-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-samihan45-181717?style=for-the-badge&logo=github&logoColor=white)
-![Language](https://img.shields.io/badge/Language-C++%20%7C%20Java%20%7C%20Python-blue?style=for-the-badge&logo=code&logoColor=white)
+![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Grinding-brightgreen?style=for-the-badge)
 
 </div>
@@ -30,7 +30,7 @@ Every solution I submit on **LeetCode** is automatically synced here, so this re
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" width="85%" />
+<img src="https://leetcard.jacoblin.cool/samihanacharya?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" width="85%" />
 
 </div>
 
@@ -91,26 +91,11 @@ flowchart LR
 ```
 
 ---
-
-## 🎯 My Goals
-
-- [x] Start the DSA journey
-- [x] Connect LeetCode with GitHub
-- [ ] Solve **100** problems
-- [ ] Solve **250** problems
-- [ ] Solve **500** problems
-- [ ] Participate in LeetCode weekly contests
-- [ ] Crack a top tech company interview 🚀
-
----
-
 ## 🛠️ Tech & Tools
 
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -122,7 +107,7 @@ flowchart LR
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/samihanacharya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samihan45)
 
