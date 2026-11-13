@@ -1,118 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=220&section=header&text=My%20DSA%20Journey&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=One%20problem%20at%20a%20time.%20One%20day%20at%20a%20time.&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=DSA%20Practice&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20%7C%20Problem%20Solving%20%7C%20Learning%20in%20Public&descSize=16&descAlignY=60" width="100%" />
 
-<a href="https://github.com/samihan45">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFA116&center=true&vCenter=true&width=650&lines=Solving+LeetCode+problems+daily+%F0%9F%92%BB;Building+problem-solving+muscle+%F0%9F%92%AA;Auto-synced+from+LeetCode+to+GitHub+%E2%9A%A1;Consistency+%3E+Motivation+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![LeetCode](https://img.shields.io/badge/LeetCode-samihanacharya-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-samihan45-181717?style=for-the-badge&logo=github&logoColor=white)
-![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Grinding-brightgreen?style=for-the-badge)
+[![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-samihanacharya-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/samihanacharya/)
+[![GitHub](https://img.shields.io/badge/GitHub-samihan45-181717?style=for-the-badge&logo=github)](https://github.com/samihan45)
 
 </div>
 
----
+## About
 
-## 👋 About This Repository
+This repository contains my Data Structures and Algorithms practice in C++. I use it to keep solutions organised, revisit patterns, and understand the reasoning behind different approaches.
 
-Welcome to my **Data Structures & Algorithms** journey!
-Every solution I submit on **LeetCode** is automatically synced here, so this repo is a living record of my growth as a problem solver.
+The goal is simple: write clear solutions, learn from mistakes, and get more consistent with problem solving.
 
-> *"The best way to learn DSA is to solve, fail, understand, and solve again."*
+## Repository layout
 
----
+Each problem has its own folder named with its problem number and title.
 
-## 📊 My LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/samihanacharya?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" width="85%" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=samihan45&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🧠 Topics I'm Covering
-
-| Topic | Status |
-|-------|--------|
-| 📦 Arrays & Hashing | ✅ Done |
-| 👉 Two Pointers | ✅ Done |
-| 🪟 Sliding Window | 🔄 In Progress |
-| 📚 Stack & Queue | 🔄 In Progress |
-| 🔍 Binary Search | ⏳ Upcoming |
-| 🔗 Linked List | ⏳ Upcoming |
-| 🌳 Trees & BST | ⏳ Upcoming |
-| ⛰️ Heap / Priority Queue | ⏳ Upcoming |
-| 🕸️ Graphs | ⏳ Upcoming |
-| 🧩 Backtracking | ⏳ Upcoming |
-| 🧮 Dynamic Programming | ⏳ Upcoming |
-| 🔤 Tries & Greedy | ⏳ Upcoming |
-
----
-
-## 🗂️ Repository Structure
-
-```
-📁 Mess-Mate-
- ├── 📁 0001-two-sum
- │    ├── 📄 README.md      → problem statement
- │    └── 📄 solution.cpp   → my accepted solution
- ├── 📁 0002-add-two-numbers
- └── ...
+```text
+DSA/
+├── 1-two-sum/
+│   ├── README.md
+│   └── solution.cpp
+├── 15-3sum/
+├── 98-validate-binary-search-tree/
+├── 199-binary-tree-right-side-view/
+└── ...
 ```
 
-Each folder contains the **problem description**, my **accepted solution**, and sometimes notes on the approach.
+A problem folder may contain:
+- `README.md` — problem summary and approach
+- `solution.cpp` — C++ implementation
+
+## Topics in this repository
+
+- Arrays and hashing
+- Two pointers and sliding window
+- Searching and sorting
+- Linked lists
+- Binary trees and BSTs
+- Recursion and other problem-solving patterns as I work through them
+
+See the folders above for the problems currently included. Topic coverage will grow as I practise.
+
+## How I approach a problem
+
+1. Understand the input, output, and constraints.
+2. Try a straightforward approach first.
+3. Look for a more efficient pattern when needed.
+4. Check edge cases and complexity.
+5. Revisit problems that I could not solve independently.
+
+## Connect
+
+- [LeetCode](https://leetcode.com/u/samihanacharya/)
+- [GitHub](https://github.com/samihan45)
+- [LinkedIn](https://www.linkedin.com/)
 
 ---
 
-## ⚙️ How It Works
-
-```mermaid
-flowchart LR
-    A[Solve on LeetCode] --> B[Submit Accepted]
-    B --> C[LeetHub Syncs]
-    C --> D[Auto-pushed to GitHub]
-    D --> E[Streak Grows 🔥]
-```
-
----
-## 🛠️ Tech & Tools
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/samihanacharya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samihan45)
-
-⭐ *If this repo inspires you, give it a star and start your own journey!* ⭐
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer" width="100%" />
+<p align="center">One problem at a time. Consistency over shortcuts.</p>
